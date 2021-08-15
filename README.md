@@ -10,4 +10,5 @@
 - ⚡ Fun fact: Unpredictable behaviour
 
 ![Bhoomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhoomika2820&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomika2820&theme=darcula)](https://github.com/Bhoomika2820/github-readme-stats)
