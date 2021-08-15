@@ -10,5 +10,5 @@
 - ⚡ Fun fact: Unpredictable behaviour
 
 ![Bhoomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhoomika2820&show_icons=true&theme=radical)
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomika2820&theme=darcula)](https://github.com/Bhoomika2820/github-readme-stats)
